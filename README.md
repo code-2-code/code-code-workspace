@@ -10,7 +10,13 @@ Default agent workflow:
 
 1. Open one repository for implementation work whenever possible.
 2. Open `code-code-contracts` only when public contracts must change.
-3. Use this workspace only for cross-repository release, dependency upgrade, or deployment coordination.
+3. For cross-repository changes, land work in this order:
+   `code-code-contracts` -> `code-code-platform-session` -> owning focused
+   service/UI repository -> `code-code-deploy` -> this workspace pointer
+   repository.
+4. Use this workspace only for cross-repository release, dependency upgrade, or deployment coordination.
+5. Treat `code-code-platform` and `code-code-console` as read-only migration
+   references; new implementation work belongs in the focused repositories.
 
 Repositories:
 
