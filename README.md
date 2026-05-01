@@ -2,10 +2,9 @@
 
 Meta workspace for the split Code Code repositories.
 
-GitHub does not provide a single repository "workspace" that owns multiple
-source repositories as one checkout. The practical model is multiple GitHub
-repositories under the same owner, plus a local workspace file or Codespaces
-configuration when a task needs more than one repository.
+GitHub does not provide nested repository folders under a personal account.
+This repository is the project directory: it contains the split source
+repositories as Git submodules and includes a VS Code multi-root workspace file.
 
 Default agent workflow:
 
@@ -20,7 +19,13 @@ Repositories:
 - `code-code-console`: console API, console web, and showcase surfaces.
 - `code-code-deploy`: Helm charts, image definitions, deployment scripts, and agent image assets.
 
-Clone all repositories:
+Clone the whole project directory:
+
+```bash
+git clone --recurse-submodules https://github.com/pood1e/code-code-workspace.git
+```
+
+If you already cloned it without submodules:
 
 ```bash
 ./clone.sh
