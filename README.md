@@ -16,6 +16,8 @@ Repositories:
 
 - `code-code-contracts`: protobuf and generated Go/TypeScript contracts.
 - `code-code-platform`: aggregate platform control-plane and runtime Go services kept for migration.
+- `code-code-platform-catalog`: focused model, support, and CLI runtime catalog services.
+- `code-code-platform-auth-network`: focused auth, OAuth, egress, and network policy services.
 - `code-code-platform-profile`: focused profile configuration service.
 - `code-code-platform-notifications`: focused notification dispatcher and callback services.
 - `code-code-console`: console API, console web, and showcase surfaces.

@@ -2,6 +2,8 @@
   "folders": [
     { "name": "contracts", "path": "code-code-contracts" },
     { "name": "platform", "path": "code-code-platform" },
+    { "name": "platform-catalog", "path": "code-code-platform-catalog" },
+    { "name": "platform-auth-network", "path": "code-code-platform-auth-network" },
     { "name": "platform-profile", "path": "code-code-platform-profile" },
     { "name": "platform-notifications", "path": "code-code-platform-notifications" },
     { "name": "console", "path": "code-code-console" },

@@ -16,3 +16,9 @@
 [submodule "code-code-platform-notifications"]
 	path = code-code-platform-notifications
 	url = https://github.com/code-2-code/code-code-platform-notifications.git
+[submodule "code-code-platform-catalog"]
+	path = code-code-platform-catalog
+	url = https://github.com/code-2-code/code-code-platform-catalog.git
+[submodule "code-code-platform-auth-network"]
+	path = code-code-platform-auth-network
+	url = https://github.com/code-2-code/code-code-platform-auth-network.git
