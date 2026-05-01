@@ -6,9 +6,13 @@
     { "name": "platform-auth-network", "path": "code-code-platform-auth-network" },
     { "name": "platform-provider", "path": "code-code-platform-provider" },
     { "name": "platform-agent-runtime", "path": "code-code-platform-agent-runtime" },
+    { "name": "platform-session", "path": "code-code-platform-session" },
     { "name": "platform-profile", "path": "code-code-platform-profile" },
     { "name": "platform-notifications", "path": "code-code-platform-notifications" },
     { "name": "console", "path": "code-code-console" },
+    { "name": "console-api", "path": "code-code-console-api" },
+    { "name": "console-web", "path": "code-code-console-web" },
+    { "name": "showcase-api", "path": "code-code-showcase-api" },
     { "name": "deploy", "path": "code-code-deploy" }
   ],
   "settings": {

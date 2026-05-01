@@ -4,7 +4,11 @@ code-2-code/code-code-platform-catalog
 code-2-code/code-code-platform-auth-network
 code-2-code/code-code-platform-provider
 code-2-code/code-code-platform-agent-runtime
+code-2-code/code-code-platform-session
 code-2-code/code-code-platform-profile
 code-2-code/code-code-platform-notifications
 code-2-code/code-code-console
+code-2-code/code-code-console-api
+code-2-code/code-code-console-web
+code-2-code/code-code-showcase-api
 code-2-code/code-code-deploy

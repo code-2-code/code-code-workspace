@@ -28,3 +28,15 @@
 [submodule "code-code-platform-agent-runtime"]
 	path = code-code-platform-agent-runtime
 	url = https://github.com/code-2-code/code-code-platform-agent-runtime
+[submodule "code-code-platform-session"]
+	path = code-code-platform-session
+	url = https://github.com/code-2-code/code-code-platform-session
+[submodule "code-code-console-api"]
+	path = code-code-console-api
+	url = https://github.com/code-2-code/code-code-console-api
+[submodule "code-code-console-web"]
+	path = code-code-console-web
+	url = https://github.com/code-2-code/code-code-console-web
+[submodule "code-code-showcase-api"]
+	path = code-code-showcase-api
+	url = https://github.com/code-2-code/code-code-showcase-api

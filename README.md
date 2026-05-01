@@ -20,9 +20,13 @@ Repositories:
 - `code-code-platform-auth-network`: focused auth, OAuth, egress, and network policy services.
 - `code-code-platform-provider`: focused provider catalog, connection, observability, and orchestration services.
 - `code-code-platform-agent-runtime`: focused AgentSession, AgentRun, timeline, and runtime orchestration services.
+- `code-code-platform-session`: focused session persistence and platform domain helper packages.
 - `code-code-platform-profile`: focused profile configuration service.
 - `code-code-platform-notifications`: focused notification dispatcher and callback services.
-- `code-code-console`: console API, console web, and showcase surfaces.
+- `code-code-console`: aggregate console API, console web, and showcase surfaces kept for migration.
+- `code-code-console-api`: focused console BFF and chat HTTP services.
+- `code-code-console-web`: focused React console and showcase web workspaces.
+- `code-code-showcase-api`: focused showcase-facing HTTP API.
 - `code-code-deploy`: Helm charts, image definitions, deployment scripts, and agent image assets.
 
 Clone the whole project directory:
