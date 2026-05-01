@@ -1,0 +1,14 @@
+{
+  "folders": [
+    { "name": "contracts", "path": "code-code-contracts" },
+    { "name": "platform", "path": "code-code-platform" },
+    { "name": "console", "path": "code-code-console" },
+    { "name": "deploy", "path": "code-code-deploy" }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/node_modules": true,
+      "**/.git": true
+    }
+  }
+}
