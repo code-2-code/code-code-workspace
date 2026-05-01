@@ -1,4 +1,4 @@
-pood1e/code-code-contracts
-pood1e/code-code-platform
-pood1e/code-code-console
-pood1e/code-code-deploy
+code-2-code/code-code-contracts
+code-2-code/code-code-platform
+code-2-code/code-code-console
+code-2-code/code-code-deploy

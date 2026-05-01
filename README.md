@@ -22,7 +22,7 @@ Repositories:
 Clone the whole project directory:
 
 ```bash
-git clone --recurse-submodules https://github.com/pood1e/code-code-workspace.git
+git clone --recurse-submodules https://github.com/code-2-code/code-code-workspace.git
 ```
 
 If you already cloned it without submodules:

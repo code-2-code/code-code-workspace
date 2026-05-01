@@ -1,12 +1,12 @@
 [submodule "code-code-contracts"]
 	path = code-code-contracts
-	url = https://github.com/pood1e/code-code-contracts.git
+	url = https://github.com/code-2-code/code-code-contracts.git
 [submodule "code-code-platform"]
 	path = code-code-platform
-	url = https://github.com/pood1e/code-code-platform.git
+	url = https://github.com/code-2-code/code-code-platform.git
 [submodule "code-code-console"]
 	path = code-code-console
-	url = https://github.com/pood1e/code-code-console.git
+	url = https://github.com/code-2-code/code-code-console.git
 [submodule "code-code-deploy"]
 	path = code-code-deploy
-	url = https://github.com/pood1e/code-code-deploy.git
+	url = https://github.com/code-2-code/code-code-deploy.git
