@@ -2,6 +2,8 @@ code-2-code/code-code-contracts
 code-2-code/code-code-platform
 code-2-code/code-code-platform-catalog
 code-2-code/code-code-platform-auth-network
+code-2-code/code-code-platform-provider
+code-2-code/code-code-platform-agent-runtime
 code-2-code/code-code-platform-profile
 code-2-code/code-code-platform-notifications
 code-2-code/code-code-console

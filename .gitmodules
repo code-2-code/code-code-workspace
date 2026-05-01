@@ -22,3 +22,9 @@
 [submodule "code-code-platform-auth-network"]
 	path = code-code-platform-auth-network
 	url = https://github.com/code-2-code/code-code-platform-auth-network.git
+[submodule "code-code-platform-provider"]
+	path = code-code-platform-provider
+	url = https://github.com/code-2-code/code-code-platform-provider
+[submodule "code-code-platform-agent-runtime"]
+	path = code-code-platform-agent-runtime
+	url = https://github.com/code-2-code/code-code-platform-agent-runtime
