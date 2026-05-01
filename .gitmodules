@@ -10,3 +10,9 @@
 [submodule "code-code-deploy"]
 	path = code-code-deploy
 	url = https://github.com/code-2-code/code-code-deploy.git
+[submodule "code-code-platform-profile"]
+	path = code-code-platform-profile
+	url = https://github.com/code-2-code/code-code-platform-profile.git
+[submodule "code-code-platform-notifications"]
+	path = code-code-platform-notifications
+	url = https://github.com/code-2-code/code-code-platform-notifications.git

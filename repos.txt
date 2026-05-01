@@ -1,4 +1,6 @@
 code-2-code/code-code-contracts
 code-2-code/code-code-platform
+code-2-code/code-code-platform-profile
+code-2-code/code-code-platform-notifications
 code-2-code/code-code-console
 code-2-code/code-code-deploy

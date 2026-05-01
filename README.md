@@ -15,7 +15,9 @@ Default agent workflow:
 Repositories:
 
 - `code-code-contracts`: protobuf and generated Go/TypeScript contracts.
-- `code-code-platform`: platform control-plane and runtime Go services.
+- `code-code-platform`: aggregate platform control-plane and runtime Go services kept for migration.
+- `code-code-platform-profile`: focused profile configuration service.
+- `code-code-platform-notifications`: focused notification dispatcher and callback services.
 - `code-code-console`: console API, console web, and showcase surfaces.
 - `code-code-deploy`: Helm charts, image definitions, deployment scripts, and agent image assets.
 
